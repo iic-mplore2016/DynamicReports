@@ -1,0 +1,540 @@
+-----------Exception Details on  08/31/2016 1:47:46-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 1:47:46
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:00:13-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:00:13
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:06:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:06:05
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:07:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:07:18
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:12:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:12:35
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:23:43-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:23:43
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:52:08-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:52:08
+
+Error Line No : line 39
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'GRP_STRNG'.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:56:11-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:56:11
+
+Error Line No : line 39
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'GRP_STRNG'.
+
+ Error Page Url: http://localhost:54226/Reports/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:56:38-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:56:38
+
+Error Line No : line 39
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'GRP_STRNG'.
+
+ Error Page Url: http://localhost:54226/Reports/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:58:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:58:02
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 2:58:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 2:58:07
+
+Error Line No : line 39
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'GRP_STRNG'.
+
+ Error Page Url: http://localhost:54226/Reports/Dashboard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:03:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:03:02
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:07:57-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:07:57
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:15:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:15:18
+
+Error Line No : ine 418
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ACTVTY_ASSCTN_ID', table 'GopetDEVTG.dbo.ACTIVITY_ASSOCIATION'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:17:57-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:17:57
+
+Error Line No : line 39
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'GRP_STRNG'.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:25:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:25:23
+
+Error Line No : line 39
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'GRP_STRNG'.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:34:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:34:42
+
+Error Line No : ine 406
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'Activity'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:35:20-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:35:20
+
+Error Line No : ine 406
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'Activity'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:44:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:44:02
+
+Error Line No : ine 406
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'Activity'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 3:45:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 3:45:51
+
+Error Line No : ine 406
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'Activity'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 6:14:21-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 6:14:21
+
+Error Line No : ine 327
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Customers.CustomerID" could not be bound.
+The multi-part identifier "Customers.CompanyName" could not be bound.
+The multi-part identifier "Customers.ContactName" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/31/2016 6:14:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/31/2016 6:14:48
+
+Error Line No : ine 327
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Conversion failed when converting the nvarchar value 'ALFKI' to data type int.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,120 @@
+-----------Exception Details on  8/19/2016 3:48:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/19/2016 3:48:00 PM
+
+Error Line No : ine 322
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "ACTIVITY_ASSOCIATION"."USR_TYP_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/19/2016 3:49:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/19/2016 3:49:39 PM
+
+Error Line No : ine 322
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "ACTIVITY_ASSOCIATION"."USR_TYP_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/19/2016 4:26:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/19/2016 4:26:29 PM
+
+Error Line No : ine 401
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01400: cannot insert NULL into ("STAGE_VSOL"."ACTIVITY"."ACTVTY_NAM")
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/19/2016 4:26:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/19/2016 4:26:57 PM
+
+Error Line No : ine 401
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01400: cannot insert NULL into ("STAGE_VSOL"."ACTIVITY"."ACTVTY_NAM")
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/19/2016 4:50:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/19/2016 4:50:37 PM
+
+Error Line No : ine 322
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "ACTIVITY_ASSOCIATION"."USR_TYP_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

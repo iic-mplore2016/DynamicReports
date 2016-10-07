@@ -1,0 +1,49 @@
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\Business.Entity.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Entity\obj\Release\Business.Entity.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\Business.Entity\obj\Release\Business.Entity.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Entity\obj\Release\Business.Entity.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Entity\obj\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Entity\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Entity\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Entity\obj\Release\Business.Entity.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Entity\obj\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Entity\obj\Release\DR.Business.Entities.pdb

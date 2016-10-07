@@ -1,0 +1,408 @@
+-----------Exception Details on  9/13/2016 11:49:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 11:49:42 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 11:52:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 11:52:00 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 11:53:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 11:53:00 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 11:53:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 11:53:20 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:06:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:06:57 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:07:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:07:24 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:07:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:07:33 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:07:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:07:37 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:07:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:07:43 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:07:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:07:49 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:07:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:07:54 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."ORDR_NO": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:09:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:09:40 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT"."AGRMNT_CNTNT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:09:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:09:45 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT"."AGRMNT_CNTNT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:10:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:10:58 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT"."AGRMNT_CNTNT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:11:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:11:25 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT"."AGRMNT_CNTNT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:11:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:11:55 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT"."AGRMNT_CNTNT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/13/2016 3:12:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/13/2016 3:12:10 PM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGREEMENTCONTENT_DRAFT"."AGRMNT_CNTNT__DRFT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

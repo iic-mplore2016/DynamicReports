@@ -1,0 +1,125 @@
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\BACKUP\2-8-2016 Evening\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\bin\Release\DR.DataAccess.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\obj\Release\DR.DataAccess.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\DataAccess\obj\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\DR.DataAccess.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\Oracle.DataAccess.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\bin\Release\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\obj\Release\DR.DataAccess.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\DataAccess\obj\Release\DR.DataAccess.pdb

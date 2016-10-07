@@ -1,0 +1,48 @@
+-----------Exception Details on  9/15/2016 1:04:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/15/2016 1:04:52 PM
+
+Error Line No : ine 367
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/15/2016 1:18:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/15/2016 1:18:01 PM
+
+Error Line No : ine 367
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

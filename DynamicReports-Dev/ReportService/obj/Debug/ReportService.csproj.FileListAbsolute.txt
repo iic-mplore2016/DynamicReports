@@ -1,0 +1,9 @@
+D:\IInterchnge\DynamicReports-Dev\ReportService\bin\Debug\ReportService.exe.config
+D:\IInterchnge\DynamicReports-Dev\ReportService\bin\Debug\ReportService.exe
+D:\IInterchnge\DynamicReports-Dev\ReportService\bin\Debug\ReportService.pdb
+D:\IInterchnge\DynamicReports-Dev\ReportService\obj\Debug\ReportService.csprojResolveAssemblyReference.cache
+D:\IInterchnge\DynamicReports-Dev\ReportService\obj\Debug\ReportService.ProjectInstaller.resources
+D:\IInterchnge\DynamicReports-Dev\ReportService\obj\Debug\ReportService.ScheduleService.resources
+D:\IInterchnge\DynamicReports-Dev\ReportService\obj\Debug\ReportService.csproj.GenerateResource.Cache
+D:\IInterchnge\DynamicReports-Dev\ReportService\obj\Debug\ReportService.exe
+D:\IInterchnge\DynamicReports-Dev\ReportService\obj\Debug\ReportService.pdb

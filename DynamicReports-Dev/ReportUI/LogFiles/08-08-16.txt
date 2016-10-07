@@ -1,0 +1,48 @@
+-----------Exception Details on  8/8/2016 1:17:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/8/2016 1:17:52 PM
+
+Error Line No : ine 330
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01722: invalid number
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/8/2016 3:02:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/8/2016 3:02:38 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00937: not a single-group group function
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

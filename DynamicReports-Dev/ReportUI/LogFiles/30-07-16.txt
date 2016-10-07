@@ -1,0 +1,497 @@
+-----------Exception Details on  7/30/2016 12:30:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 12:30:52 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 1:24:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 1:24:01 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 1:30:23 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 1:30:23 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 1:30:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 1:30:34 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 1:44:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 1:44:16 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:20:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:20:49 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:21:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:21:40 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:21:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:21:55 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:36:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:36:33 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:36:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:36:46 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:45:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:45:50 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 4:46:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 4:46:09 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 5:01:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 5:01:43 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 5:27:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 5:27:14 PM
+
+Error Line No : line 96
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 5:27:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 5:27:53 PM
+
+Error Line No : line 96
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 5:54:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 5:54:11 PM
+
+Error Line No : line 96
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'All_Columns'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 6:04:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 6:04:36 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 6:04:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 6:04:43 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 6:53:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 6:53:25 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/30/2016 6:53:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/30/2016 6:53:38 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

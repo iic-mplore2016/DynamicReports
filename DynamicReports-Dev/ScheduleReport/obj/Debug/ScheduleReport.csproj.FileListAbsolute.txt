@@ -1,0 +1,9 @@
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\bin\Debug\ScheduleReport.exe.config
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\bin\Debug\ScheduleReport.exe
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\bin\Debug\ScheduleReport.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\bin\Debug\itextsharp.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\obj\Debug\ScheduleReport.ProjectInstaller.resources
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\obj\Debug\ScheduleReport.csproj.GenerateResource.Cache
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\obj\Debug\ScheduleReport.exe
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\obj\Debug\ScheduleReport.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\ScheduleReport\bin\Debug\Oracle.DataAccess.dll

@@ -1,0 +1,240 @@
+-----------Exception Details on  07-09-2016 10:53:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 10:53:55
+
+Error Line No : line 55
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00923: FROM keyword not found where expected
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 10:55:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 10:55:42
+
+Error Line No : line 55
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00923: FROM keyword not found where expected
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 11:15:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 11:15:04
+
+Error Line No : line 57
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'RPRT_TTL'.
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 17:19:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 17:19:07
+
+Error Line No : line 66
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'QUE_ID'.
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 17:20:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 17:20:10
+
+Error Line No : line 66
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'QUE_ID'.
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 17:22:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 17:22:50
+
+Error Line No : line 66
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'QUE_ID'.
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 19:19:44-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 19:19:44
+
+Error Line No : ine 383
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 19:21:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 19:21:05
+
+Error Line No : ine 383
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 19:27:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 19:27:07
+
+Error Line No : line 66
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'QUE_ID'.
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  07-09-2016 19:27:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 07-09-2016 19:27:07
+
+Error Line No : line 66
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'QUE_ID'.
+
+ Error Page Url: http://localhost:54226/Reports/QueueReport.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

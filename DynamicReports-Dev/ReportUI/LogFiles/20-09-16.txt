@@ -1,0 +1,24 @@
+-----------Exception Details on  9/20/2016 3:59:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/20/2016 3:59:55 PM
+
+Error Line No : line 59
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

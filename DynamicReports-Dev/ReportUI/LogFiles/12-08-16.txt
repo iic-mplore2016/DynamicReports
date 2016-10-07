@@ -1,0 +1,50 @@
+-----------Exception Details on  8/12/2016 4:38:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/12/2016 4:38:58 PM
+
+Error Line No : line 31
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/WebService/WebService.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/12/2016 4:39:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/12/2016 4:39:36 PM
+
+Error Line No : line 31
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/WebService/WebService.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

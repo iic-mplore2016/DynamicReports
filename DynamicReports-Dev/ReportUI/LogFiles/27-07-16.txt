@@ -1,0 +1,504 @@
+-----------Exception Details on  7/27/2016 11:52:47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 11:52:47 AM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01861: literal does not match format string
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 12:03:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 12:03:21 PM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01841: (full) year must be between -4713 and +9999, and not be 0
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 12:04:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 12:04:15 PM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01841: (full) year must be between -4713 and +9999, and not be 0
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 12:07:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 12:07:00 PM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01858: a non-numeric character was found where a numeric was expected
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 12:11:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 12:11:03 PM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01861: literal does not match format string
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 12:12:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 12:12:26 PM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-01861: literal does not match format string
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 5:20:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 5:20:21 PM
+
+Error Line No : line 37
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:42:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:42:11 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:42:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:42:27 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:42:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:42:47 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:42:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:42:59 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:43:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:43:22 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:44:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:44:02 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:45:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:45:04 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:45:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:45:37 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:47:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:47:11 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:47:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:47:29 PM
+
+Error Line No : line 43
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:54:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:54:33 PM
+
+Error Line No : line 44
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:54:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:54:57 PM
+
+Error Line No : line 44
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 8:56:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 8:56:12 PM
+
+Error Line No : line 44
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/27/2016 10:08:05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/27/2016 10:08:05 PM
+
+Error Line No : line 51
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

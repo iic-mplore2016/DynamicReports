@@ -1,0 +1,218 @@
+-----------Exception Details on  7/25/2016 11:43:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 11:43:59 AM
+
+Error Line No : ine 326
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 11:57:13 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 11:57:13 AM
+
+Error Line No : line 34
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'ACTVTY_ID' does not belong to table .
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 3:20:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 3:20:39 PM
+
+Error Line No : ine 409
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 3:26:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 3:26:09 PM
+
+Error Line No : ine 409
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 6:24:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 6:24:58 PM
+
+Error Line No : ine 409
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 6:40:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 6:40:04 PM
+
+Error Line No : ine 409
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 6:50:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 6:50:22 PM
+
+Error Line No : ine 403
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-04044: procedure, function, package, or type is not allowed here
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 6:58:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 6:58:19 PM
+
+Error Line No : ine 409
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/25/2016 7:13:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/25/2016 7:13:52 PM
+
+Error Line No : line 59
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

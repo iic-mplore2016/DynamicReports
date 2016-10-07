@@ -1,0 +1,144 @@
+-----------Exception Details on  8/10/2016 1:49:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/10/2016 1:49:52 PM
+
+Error Line No : ine 322
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "STAGE_PURCHASEINDUCTION"."PRCHS_ORDR_DT": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/10/2016 2:10:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/10/2016 2:10:11 PM
+
+Error Line No : ine 445
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/10/2016 2:15:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/10/2016 2:15:37 PM
+
+Error Line No : ine 445
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/10/2016 2:17:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/10/2016 2:17:55 PM
+
+Error Line No : ine 445
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/10/2016 2:19:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/10/2016 2:19:29 PM
+
+Error Line No : ine 445
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/10/2016 2:19:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/10/2016 2:19:30 PM
+
+Error Line No : ine 445
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

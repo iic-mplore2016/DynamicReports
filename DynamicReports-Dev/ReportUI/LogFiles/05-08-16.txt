@@ -1,0 +1,48 @@
+-----------Exception Details on  8/5/2016 10:39:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/5/2016 10:39:49 AM
+
+Error Line No : ine 415
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Data.DataColumn' to type 'System.IConvertible'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/5/2016 2:58:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/5/2016 2:58:38 PM
+
+Error Line No : line 31
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : OracleCommand.CommandText is invalid
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

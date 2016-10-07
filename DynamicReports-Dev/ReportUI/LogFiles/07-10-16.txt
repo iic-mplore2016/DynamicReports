@@ -1,0 +1,72 @@
+-----------Exception Details on  10/7/2016 11:28:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/7/2016 11:28:10 AM
+
+Error Line No : line 59
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10/7/2016 11:28:18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/7/2016 11:28:18 AM
+
+Error Line No : line 59
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10/7/2016 11:28:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/7/2016 11:28:46 AM
+
+Error Line No : line 59
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

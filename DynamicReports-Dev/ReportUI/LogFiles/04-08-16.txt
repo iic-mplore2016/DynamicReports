@@ -1,0 +1,578 @@
+-----------Exception Details on  8/4/2016 12:17:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:17:08 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00933: SQL command not properly ended
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:19:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:19:11 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00933: SQL command not properly ended
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:24:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:24:41 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00933: SQL command not properly ended
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:27:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:27:53 PM
+
+Error Line No : line 27
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:28:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:28:11 PM
+
+Error Line No : line 27
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:29:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:29:37 PM
+
+Error Line No : line 27
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:34:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:34:45 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00933: SQL command not properly ended
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:36:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:36:11 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00933: SQL command not properly ended
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:40:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:40:11 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00900: invalid SQL statement
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:42:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:42:34 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00900: invalid SQL statement
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:53:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:53:06 PM
+
+Error Line No : line 31
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00900: invalid SQL statement
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 12:57:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 12:57:58 PM
+
+Error Line No : line 27
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 1:02:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 1:02:56 PM
+
+Error Line No : line 27
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 3:11:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 3:11:08 PM
+
+Error Line No : ine 327
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 3:11:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 3:11:35 PM
+
+Error Line No : ine 327
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 3:46:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 3:46:04 PM
+
+Error Line No : ine 450
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-12899: value too large for column "STAGE_VSOL"."REPORT_PARAMETER"."SCHMA_CLMN_NM" (actual: 33, maximum: 30)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 3:58:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 3:58:16 PM
+
+Error Line No : ine 450
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-12899: value too large for column "STAGE_VSOL"."REPORT_PARAMETER"."SCHMA_CLMN_NM" (actual: 33, maximum: 30)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 5:05:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 5:05:52 PM
+
+Error Line No : ine 327
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "STAGE_PURCHASEINDUCTION"."APPRVD_BY": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 5:11:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 5:11:28 PM
+
+Error Line No : ine 327
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "STAGE_PURCHASEINDUCTION"."AMS_INSERT_FLAG": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 9:02:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 9:02:02 PM
+
+Error Line No : ine 421
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Data.DataColumn' to type 'System.IConvertible'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 9:02:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 9:02:47 PM
+
+Error Line No : ine 421
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Data.DataColumn' to type 'System.IConvertible'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 9:08:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 9:08:32 PM
+
+Error Line No : ine 415
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Data.DataColumn' to type 'System.IConvertible'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 9:10:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 9:10:19 PM
+
+Error Line No : ine 415
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Data.DataColumn' to type 'System.IConvertible'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/4/2016 9:13:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/4/2016 9:13:11 PM
+
+Error Line No : ine 415
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Unable to cast object of type 'System.Data.DataColumn' to type 'System.IConvertible'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

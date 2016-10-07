@@ -1,0 +1,528 @@
+-----------Exception Details on  08/29/2016 11:16:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:16:51
+
+Error Line No : line 37
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:17:25-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:17:25
+
+Error Line No : line 37
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:17:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:17:39
+
+Error Line No : line 61
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:18:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:18:17
+
+Error Line No : line 37
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:19:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:19:36
+
+Error Line No : line 61
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:21:47-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:21:47
+
+Error Line No : line 37
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:22:14-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:22:14
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:22:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:22:53
+
+Error Line No : line 37
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:23:07-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:23:07
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:23:38-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:23:38
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:25:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:25:10
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:27:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:27:26
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:33:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:33:35
+
+Error Line No : line 37
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:35:33-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:35:33
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:52:49-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:52:49
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:54:02-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:54:02
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 11:55:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 11:55:35
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 12:00:32-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 12:00:32
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'module'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 12:01:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 12:01:53
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'module'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 12:06:16-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 12:06:16
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'module'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 12:07:13-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 12:07:13
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'module'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/29/2016 12:14:35-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/29/2016 12:14:35
+
+Error Line No : line 61
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'module'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

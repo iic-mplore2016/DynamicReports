@@ -1,0 +1,472 @@
+-----------Exception Details on  8/1/2016 10:58:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 10:58:11 AM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 12:04:30 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 12:04:30 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 12:24:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 12:24:00 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 1:33:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 1:33:08 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 1:41:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 1:41:08 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 1:41:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 1:41:12 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 1:41:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 1:41:54 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 1:42:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 1:42:07 PM
+
+Error Line No : line 69
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/01/2016 4:02:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/01/2016 4:02:15
+
+Error Line No : line 37
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/01/2016 7:00:48-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/01/2016 7:00:48
+
+Error Line No : ine 437
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Products.CategoryID" could not be bound.
+The multi-part identifier "Products.Discontinued" could not be bound.
+The multi-part identifier "Products.ProductID" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  08/01/2016 7:01:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 08/01/2016 7:01:10
+
+Error Line No : ine 437
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Products.CategoryID" could not be bound.
+The multi-part identifier "Products.Discontinued" could not be bound.
+The multi-part identifier "Products.ProductID" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 8:50:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 8:50:44 PM
+
+Error Line No : line 37
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 9:49:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 9:49:32 PM
+
+Error Line No : ine 440
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 9:51:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 9:51:07 PM
+
+Error Line No : ine 440
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 9:53:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 9:53:04 PM
+
+Error Line No : ine 440
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The text, ntext, and image data types cannot be compared or sorted, except when using IS NULL or LIKE operator.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 11:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 11:15:40 PM
+
+Error Line No : line 29
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 11:16:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 11:16:42 PM
+
+Error Line No : line 29
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 11:17:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 11:17:29 PM
+
+Error Line No : line 29
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  8/1/2016 11:17:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 8/1/2016 11:17:53 PM
+
+Error Line No : line 29
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/WebService/Report_Viewer.asmx/ViewReport
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

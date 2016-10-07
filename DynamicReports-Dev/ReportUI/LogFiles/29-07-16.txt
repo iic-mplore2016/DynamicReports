@@ -1,0 +1,125 @@
+-----------Exception Details on  7/29/2016 12:24:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/29/2016 12:24:08 PM
+
+Error Line No : ine 351
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Employees.EmployeeID" could not be bound.
+The multi-part identifier "Employees.LastName" could not be bound.
+The multi-part identifier "Employees.FirstName" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/29/2016 12:26:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/29/2016 12:26:47 PM
+
+Error Line No : line 62
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/29/2016 12:27:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/29/2016 12:27:32 PM
+
+Error Line No : ine 351
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Employees.EmployeeID" could not be bound.
+The multi-part identifier "Employees.LastName" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/29/2016 12:50:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/29/2016 12:50:14 PM
+
+Error Line No : line 83
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'All_Columns'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/29/2016 2:56:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/29/2016 2:56:08 PM
+
+Error Line No : ine 351
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Orders.CustomerID" could not be bound.
+The multi-part identifier "Orders.EmployeeID" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

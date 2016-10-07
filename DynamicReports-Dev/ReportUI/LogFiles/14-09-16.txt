@@ -1,0 +1,456 @@
+-----------Exception Details on  9/14/2016 11:11:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:11:56 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:12:17 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:12:17 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:13:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:13:20 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:13:30 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:13:30 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:13:35 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:13:35 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."AG_RPRT_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:24:32 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:24:32 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGENCY"."AGNCY_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:25:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:25:59 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGENCY"."AGNCY_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:26:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:26:19 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-06553: PLS-306: wrong number or types of arguments in call to 'OGC_AREA'
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:27:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:27:42 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:27:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:27:52 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:28:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:28:00 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:28:09 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:28:09 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:28:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:28:20 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:28:54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:28:54 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:30:45 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:30:45 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 11:38:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 11:38:00 AM
+
+Error Line No : ine 340
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00904: "AGEREPORT"."STTS_ID": invalid identifier
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 6:03:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 6:03:47 PM
+
+Error Line No : ine 461
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00001: unique constraint (VSOLMIGUATPL_DB.PK__ACTIVITY__7236DA705CD6CB2B) violated
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 6:04:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 6:04:11 PM
+
+Error Line No : ine 461
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00001: unique constraint (VSOLMIGUATPL_DB.PK__ACTIVITY__7236DA705CD6CB2B) violated
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  9/14/2016 6:04:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/14/2016 6:04:53 PM
+
+Error Line No : ine 461
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00001: unique constraint (VSOLMIGUATPL_DB.PK__ACTIVITY__7236DA705CD6CB2B) violated
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

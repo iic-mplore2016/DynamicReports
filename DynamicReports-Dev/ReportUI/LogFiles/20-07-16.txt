@@ -1,0 +1,1180 @@
+-----------Exception Details on  7/20/2016 10:32:54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 10:32:54 AM
+
+Error Line No : ine 407
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 10:33:02 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 10:33:02 AM
+
+Error Line No : ine 407
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:25:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:25:05 AM
+
+Error Line No : line 33
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:25:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:25:46 AM
+
+Error Line No : line 33
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:26:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:26:21 AM
+
+Error Line No : line 33
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:27:06 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:27:06 AM
+
+Error Line No : line 37
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:27:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:27:28 AM
+
+Error Line No : line 37
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:39:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:39:19 AM
+
+Error Line No : line 37
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:40:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:40:20 AM
+
+Error Line No : line 37
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:40:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:40:56 AM
+
+Error Line No : line 37
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:41:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:41:31 AM
+
+Error Line No : line 37
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00911: invalid character
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:41:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:41:41 AM
+
+Error Line No : line 33
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 11:42:01 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 11:42:01 AM
+
+Error Line No : line 33
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 12:28:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 12:28:21 PM
+
+Error Line No : line 33
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/DashBoard.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 12:41:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 12:41:57 PM
+
+Error Line No : ine 407
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 12:42:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 12:42:08 PM
+
+Error Line No : ine 407
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 12:44:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 12:44:49 PM
+
+Error Line No : ine 407
+
+Error Message: OracleException
+
+Exception Type: Oracle.DataAccess.Client.OracleException
+
+Error Location : ORA-00942: table or view does not exist
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 1:17:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 1:17:53 PM
+
+Error Line No : ine 342
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 1:20:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 1:20:42 PM
+
+Error Line No : ine 342
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'Select'.
+Incorrect syntax near the keyword 'LEFT'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 1:24:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 1:24:55 PM
+
+Error Line No : ine 342
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'LEFT'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 1:27:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 1:27:19 PM
+
+Error Line No : ine 342
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Categories.CategoryID" could not be bound.
+The multi-part identifier "Categories.CategoryName" could not be bound.
+The multi-part identifier "Categories.DescriptionFROM" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:23:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:23:24 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:24:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:24:03 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:24:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:24:41 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:26:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:26:49 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:28:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:28:29 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:29:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:29:08 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:30:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:30:22 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:31:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:31:26 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:32:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:32:33 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:33:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:33:18 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:38:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:38:21 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:39:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:39:46 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:41:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:41:25 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:42:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:42:20 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:48:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:48:20 PM
+
+Error Line No : ine 342
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near ','.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 3:58:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 3:58:36 PM
+
+Error Line No : ine 339
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'FROM'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 4:09:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 4:09:07 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'JOIN'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 4:32:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 4:32:49 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'JOIN'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 4:32:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 4:32:55 PM
+
+Error Line No : line 55
+
+Error Message: ArgumentNullException
+
+Exception Type: System.ArgumentNullException
+
+Error Location : Value cannot be null.
+Parameter name: providerInvariantName
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 5:12:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 5:12:07 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Incorrect syntax near the keyword 'LEFT'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 5:36:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 5:36:48 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "Employees.EmployeeID" could not be bound.
+The multi-part identifier "Employees.LastName" could not be bound.
+The multi-part identifier "Employees.FirstName" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 5:39:13 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 5:39:13 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The objects "Categories" and "Categories" in the FROM clause have the same exposed names. Use correlation names to distinguish them.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 5:43:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 5:43:12 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'undefined'.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 5:53:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 5:53:21 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The objects "Categories" and "Categories" in the FROM clause have the same exposed names. Use correlation names to distinguish them.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 5:55:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 5:55:24 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The objects "Categories" and "Categories" in the FROM clause have the same exposed names. Use correlation names to distinguish them.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 6:25:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 6:25:33 PM
+
+Error Line No : ine 293
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "ACTIVITY_ADDITONAL_ACTION.ACTVTY_ID" could not be bound.
+The multi-part identifier "ACTIVITY_ADDITONAL_ACTION.ACTN_TYP_ID" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  7/20/2016 6:27:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 7/20/2016 6:27:33 PM
+
+Error Line No : ine 293
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The multi-part identifier "ACTIVITY_ADDITONAL_ACTION.ACTVTY_ID" could not be bound.
+The multi-part identifier "ACTIVITY_ADDITONAL_ACTION.ACTN_TYP_ID" could not be bound.
+
+ Error Page Url: http://localhost:54226/Reports/Query_Builder.aspx/btnvalidate_Click
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,178 @@
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\bin\Debug\Business.Helpers.dll
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\bin\Debug\Business.Helpers.pdb
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\bin\Debug\Business.Entity.dll
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\bin\Debug\Business.Entity.pdb
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\obj\Debug\Business.Helpers.dll
+E:\Tech\Metaplore\DynamicReport-Dev\Business.Helpers\obj\Debug\Business.Helpers.pdb
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+E:\Tech\Metaplore\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\IInterchnge\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\21-06-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\30-06-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\Latest_5-7-16\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\6-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Old Solution\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\current-15-7-16\source1\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\old\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\16-7-2016_UPDATED\Updated\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\17-07-2016\Updated\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\21-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\latest_21-7-2016\21-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\22-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\25-7-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\1-8-2016\latest\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Copy\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\C#-Reporting Tool\29-8-2016\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\interchange_prjct\6-9-16\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\7-9-16\DynamicReports-Dev - Integerated\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Helpers.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.dll
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\bin\Debug\DR.Business.Entities.pdb
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\obj\Debug\Business.Helpers.csprojResolveAssemblyReference.cache
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.dll
+D:\iInterchnage Project\Working Solution\BACKUP\Working Server Code\DynamicReports-Dev\Business.Helpers\obj\Debug\DR.Business.Helpers.pdb
